@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./certificate" alt="Certificate" width="350">
+</p>
+
 # گواهی فعالیت آموزشی
 
 ## امیرحسین اسدپور
