@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./certificate" alt="Certificate" width="350">
+  <img src="./certificate.jpg" alt="Certificate" width="350">
 </p>
 
 # گواهی فعالیت آموزشی
