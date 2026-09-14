@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./certificate" alt="Certificate" width="500">
+  <img src="./certificate.png" alt="Certificate" width="500">
 </p>
 
 # مشخصات فردی
